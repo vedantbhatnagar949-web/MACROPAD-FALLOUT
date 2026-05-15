@@ -17,10 +17,13 @@ It exists because I am a fellow Hollow Knight player and I am stuck at 94% in ga
 _----------------------------_
 
 # CASE
-![IMAGE OF THE MACKROPADDS CASE](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png)
+![IMAGE OF THE MACROPAD'S CASE](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png)
 
 # PCB
 ![IMAGE OF MACROPADS PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/959af3693de45e253969344bbb6233e60da0eee0/Screenshot%202026-05-15%20192008.png)
 
 ![3D IMAGE OF PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/9c0d4788fe620f6a87602c2a3da6e2bd2023fe17/Screenshot%202026-05-15%20192023.png)
 
+# SCHEMATIC
+
+![SCHEMATIC OF MACROPAD]()
