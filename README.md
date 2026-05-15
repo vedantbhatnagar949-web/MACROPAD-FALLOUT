@@ -26,4 +26,4 @@ _----------------------------_
 
 # SCHEMATIC
 
-![SCHEMATIC OF MACROPAD]()
+![SCHEMATIC OF MACROPAD](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/123d6c83ecc483dab422827d047e7d637ff7b0e5/Screenshot%202026-05-15%20192046.png)
