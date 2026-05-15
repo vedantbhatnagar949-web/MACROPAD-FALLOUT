@@ -20,6 +20,11 @@ _----------------------------_
 
 https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/97c14229825e16f74af256df66fd68ae4199546e/BOM_PCB3_Schematic2_2026-05-15.csv
 
+BILL Of Parts 
+Switches - https://www.lcsc.com/product-detail/C400226.html?s_z=n_q_p_PG1511F%2520Keyboard%2520Switch&spm=wm.ssy.bg.0.xh&lcsc_vid=RgUKAQdURVZZBVJeRlhcVlACFVZeUFJfQVBXBlZfQlkxVlNRT1lbUFVST1RYUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D
+
+Microcontroller- https://www.lcsc.com/product-detail/C2040.html?s_z=h_q_p_RP%25202040&spm=wm.ssy.bg.0.xh&lcsc_vid=RgUKAQdURVZZBVJeRlhcVlACFVZeUFJfQVBXBlZfQlkxVlNRT1lbUFdQQFhXVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D
+
 # CASE
 ![IMAGE OF THE MACROPAD'S CASE](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png)
 this is the image of the case of the macropad
@@ -38,3 +43,7 @@ this is the 3d image of the PCB of the macropad
 ![SCHEMATIC OF MACROPAD](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/123d6c83ecc483dab422827d047e7d637ff7b0e5/Screenshot%202026-05-15%20192046.png)
 
 this is the image of the schematic of the macropad
+
+
+
+
