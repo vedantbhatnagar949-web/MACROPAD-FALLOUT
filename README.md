@@ -22,12 +22,19 @@ https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/97c14229825e16f7
 
 # CASE
 ![IMAGE OF THE MACROPAD'S CASE](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png)
+this is the image of the case of the macropad
 
 # PCB
 ![IMAGE OF MACROPADS PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/959af3693de45e253969344bbb6233e60da0eee0/Screenshot%202026-05-15%20192008.png)
 
+this is the image of the PCB of the macropad
+
 ![3D IMAGE OF PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/9c0d4788fe620f6a87602c2a3da6e2bd2023fe17/Screenshot%202026-05-15%20192023.png)
+
+this is the 3d image of the PCB of the macropad
 
 # SCHEMATIC
 
 ![SCHEMATIC OF MACROPAD](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/123d6c83ecc483dab422827d047e7d637ff7b0e5/Screenshot%202026-05-15%20192046.png)
+
+this is the image of the schematic of the macropad
