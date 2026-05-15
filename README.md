@@ -21,3 +21,6 @@ _----------------------------_
 
 # PCB
 ![IMAGE OF MACROPADS PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/959af3693de45e253969344bbb6233e60da0eee0/Screenshot%202026-05-15%20192008.png)
+
+![3D IMAGE OF PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/9c0d4788fe620f6a87602c2a3da6e2bd2023fe17/Screenshot%202026-05-15%20192023.png)
+
