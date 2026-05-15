@@ -16,6 +16,9 @@ It exists because I am a fellow Hollow Knight player and I am stuck at 94% in ga
 # NECCESARRY DOCS AND FILES 
 _----------------------------_
 
+*BILL OF MATERIALS*
+BOM_PCB3_Schematic2_2026-05-15.csv
+
 # CASE
 ![IMAGE OF THE MACROPAD'S CASE](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png)
 
