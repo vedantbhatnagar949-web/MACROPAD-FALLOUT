@@ -17,3 +17,4 @@ It exists because I am a fellow Hollow Knight player and I am stuck at 94% in ga
 _----------------------------_
 
 # CASE
+https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png
