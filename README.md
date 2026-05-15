@@ -18,3 +18,6 @@ _----------------------------_
 
 # CASE
 ![IMAGE OF THE MACKROPADDS CASE](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/214eff59f088ea796227e9a0adfc2a76fe50284c/Screenshot%202026-05-15%20155558.png)
+
+# PCB
+![IMAGE OF MACROPADS PCB](https://github.com/vedantbhatnagar949-web/MACROPAD-FALLOUT/blob/959af3693de45e253969344bbb6233e60da0eee0/Screenshot%202026-05-15%20192008.png)
